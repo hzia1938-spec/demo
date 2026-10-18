@@ -1,3 +1,5 @@
 # demo
 
-A demo repository, created from the Mac mini.
+A demo website, published with GitHub Pages.
+
+Live demo: https://hzia1938-spec.github.io/demo/
